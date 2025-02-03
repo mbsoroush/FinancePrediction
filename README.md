@@ -1,4 +1,4 @@
-#LSTM-Based Financial Time Series Prediction📈 
+# LSTM-Based Financial Time Series Prediction📈 
 
 This repository contains a Jupyter Notebook implementing LSTM (Long Short-Term Memory) networks using TensorFlow/Keras to predict Google stock prices over a 10-day period.
 
