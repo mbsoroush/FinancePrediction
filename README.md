@@ -7,6 +7,11 @@ You could find the datase in my kaggle page:
 👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ## 📌 Features
+This project is an **NLP-based Persian Emotion Classifier** built with.  
+It predicts emotions from Persian text across **7 categories**:
+This project is an **NLP-based Persian Emotion Classifier** built with.  
+It predicts emotions from Persian text across **7 categories**:
+
 
   Uses LSTM, a powerful recurrent neural network (RNN), for time series forecasting.
   Processes Google stock price data and predicts future trends.
