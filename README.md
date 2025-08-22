@@ -3,7 +3,7 @@
 This repository contains a project implementing LSTM (Long Short-Term Memory) networks using TensorFlow to predict Google stock prices over a 10-day period.
 
 ## 📦 Dataset
-You could find the datase in my kaggle page:  
+The dataset used in this project is available on my Kaggle page:  
 👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ## 📌 Features
