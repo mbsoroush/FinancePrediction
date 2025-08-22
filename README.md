@@ -12,6 +12,8 @@ You could find the datase in my kaggle page:
 -Implements data preprocessing, normalization, and visualization techniques.
 -Utilizes TensorFlow, Keras, NumPy, Pandas, Matplotlib, and Plotly for analysis and visualization.
 
-
+The project has two main parts:
+1. **Model Training** → Fine-tuning ParsBERT on a Persian emotion dataset using Kaggle GPU.  
+2. **Streamlit App** → An interactive interface where users enter text and get predictions in real-time.
 
 
