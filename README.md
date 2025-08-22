@@ -8,10 +8,10 @@ You could find the datase in my kaggle page:
 
 ## 📌 Features
 
- -Uses LSTM, a powerful recurrent neural network (RNN), for time series forecasting.
- -Processes Google stock price data and predicts future trends.
- -Implements data preprocessing, normalization, and visualization techniques.
- -Utilizes TensorFlow, Keras, NumPy, Pandas, Matplotlib, and Plotly for analysis and visualization.
+  Uses LSTM, a powerful recurrent neural network (RNN), for time series forecasting.
+  Processes Google stock price data and predicts future trends.
+  Implements data preprocessing, normalization, and visualization techniques.
+  Utilizes TensorFlow, Keras, NumPy, Pandas, Matplotlib, and Plotly for analysis and visualization.
 
 The project has two main parts ses LSTM, a powerful recurrent neural network (RNN), for time series forecasting:
 1. **Model Training** → Fine-tuning ParsBERT on a Persian emotion dataset using Kaggle GPU.  
