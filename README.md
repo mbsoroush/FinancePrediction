@@ -4,7 +4,7 @@ This repository contains a project implementing LSTM (Long Short-Term Memory) ne
 
 ## 📦 Dataset
 The dataset used in this project is available on my Kaggle page:  
-👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+👉 [Countries Dataset](https://www.kaggle.com/datasets/mbsoroush/countries-dataset)
 
 ## 📌 Features
 -  Uses LSTM, a powerful recurrent neural network (RNN), for time series forecasting.
