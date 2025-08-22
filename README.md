@@ -7,6 +7,9 @@ You could find the datase in my kaggle page:
 👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ## 📌 Features
+The fine-tuning of ParsBERT was done on Kaggle with GPU acceleration.  
+Below are the main steps:
+
 Uses LSTM, a powerful recurrent neural network (RNN), for time series forecasting.
 Processes Google stock price data and predicts future trends.
 Implements data preprocessing, normalization, and visualization techniques.
