@@ -30,11 +30,12 @@ The project has two main parts:
 ---
 
 ## 📦 Dataset
-We used a daily Google (GOOG) stock dataset hosted on Kaggle (`google-dataset`):
+The experiments use a daily Google (GOOG) stock dataset that I created and published on Kaggle:  
+👉 [Google Stock Dataset (GOOG)](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 - **1,258** trading days (2016-06-14 → 2021-06-11)  
 - **1,239** rows after feature warm-up  
-- Columns used: `date`, `open`, `high`, `low`, `close`, `volume`  
+- Columns used: `date`, `open`, `high`, `low`, `close`, `volume`
 
 ---
 
