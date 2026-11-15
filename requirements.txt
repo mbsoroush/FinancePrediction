@@ -1,0 +1,7 @@
+tensorflow==2.16.1
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+jupyter
